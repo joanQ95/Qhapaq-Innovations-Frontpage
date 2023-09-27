@@ -21,6 +21,8 @@ import sign from "../assets/sign.png";
 import quote from "../assets/quote.png";
 import gericht from "../assets/gericht.png";
 import qhapaqnav from "../assets/logoQ.png";
+import fondo from "../assets/fondo.jpg";
+
 export default {
   bg,
   chef,
@@ -45,4 +47,5 @@ export default {
   quote,
   gericht,
   qhapaqnav,
+  fondo,
 };
