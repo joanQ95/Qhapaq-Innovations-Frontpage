@@ -1,0 +1,12 @@
+.app__contact-links_icons{
+  margin-top: 0.5rem;
+}
+.app__contact-links_icons svg{
+  color: var(--color-white);
+  margin: 0.5rem;
+  font-size: 50px;
+  cursor: pointer;
+}
+.app__contact-links_icons svg:hover {
+  color: var(--color-sky);
+}
